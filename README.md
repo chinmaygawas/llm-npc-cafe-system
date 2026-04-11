@@ -68,6 +68,6 @@ uvicorn main:app --reload
 * Player wallet system
 * Multiplayer support
 
-## 👤 Author
+## 👤 Authors
 
 Chinmay Gawas and Pranali Unavane
