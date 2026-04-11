@@ -70,5 +70,4 @@ uvicorn main:app --reload
 
 ## 👤 Author
 
-Chinmay Gawas
-
+Chinmay Gawas and Pranali Unavane
